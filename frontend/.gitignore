@@ -1,0 +1,17 @@
+# Ignore Terraform local state files
+terraform.tfstate
+terraform.tfstate.backup
+
+# Ignore Terraform plugin directory
+.terraform/
+
+# Ignore Terraform lock file (optional but usually okay to push)
+.terraform.lock.hcl
+
+# Ignore crash logs
+crash.log
+
+# Optional: Ignore VSCode or OS-specific files
+.vscode/
+.DS_Store
+Thumbs.db
