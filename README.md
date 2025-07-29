@@ -1,4 +1,4 @@
-AWS Web App Deployment using Terraform
+# AWS Web App Deployment using Terraform
 This project demonstrates end-to-end deployment of a full-stack web application on AWS using Terraform. It includes infrastructure automation for frontend, backend, compute, storage, networking, and CI/CD.
 
 Key Features:
